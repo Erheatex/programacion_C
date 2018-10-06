@@ -12,6 +12,11 @@ int main()
   segundos=(minutos/1);
 
 
+/*  printf("%i segundos equivalen a: \n
+         %i horas \n 
+         %i minutos \n
+         %i segundos",num,horas,minutos,segundos);
+   */
   printf("%i segundos equivalen a: " , num);
   printf(":%i horas ", horas);
   printf("%i minutos ", minutos);
